@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://professorcalc.github.io/sitemap.xml
